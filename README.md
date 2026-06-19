@@ -10,7 +10,6 @@ Puedes explorar el dashboard interactivo aquí:
 
 ** [Ver dashboard en Power BI](https://app.powerbi.com/links/s4Mzs6Sz4a?ctid=1d2e59b7-fa25-4404-8b95-d02dd4b7cb98&pbi_source=linkShare)**
 
-> _Nota: el dashboard se visualiza mejor desde un navegador de escritorio. Requiere conexión a internet para cargar el mapa._
 
 ---
 
