@@ -133,4 +133,5 @@ Página final con el análisis de cumplimiento, los niveles de madurez y el rank
 
 ## Autor
 
-Carlos Oviedo Ballestero
+Carlos Oviedo Ballestero / Daniel Oviedo Ballestero
+
